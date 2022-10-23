@@ -1,3 +1,5 @@
+1
+
 # Digest
 
 A minimal newsletter theme for [Ghost](https://github.com/TryGhost/Ghost). This theme keeps your homepage dynamic and fresh by always displaying the latest issue you’ve published. From there, your audience can either navigate to the previous issue or see the archive of all the issues.
